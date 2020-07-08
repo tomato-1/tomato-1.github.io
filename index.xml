@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SZS&#39;s BLOG</title>
+    <link>https://tomato-1.github.io/</link>
+    <description>Recent content on SZS&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jul 2020 00:19:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://tomato-1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ourblog SZS</title>
+      <link>https://tomato-1.github.io/post/blog/</link>
+      <pubDate>Thu, 09 Jul 2020 00:19:14 +0800</pubDate>
+      
+      <guid>https://tomato-1.github.io/post/blog/</guid>
+      <description>秋刀鱼的滋味 猫跟你都想了解 初恋的香味就这样被我们寻回 ——《七里香》</description>
+    </item>
+    
+  </channel>
+</rss>
